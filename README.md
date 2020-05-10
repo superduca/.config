@@ -30,5 +30,5 @@ Packages:
     compton
     fish -- enable shell
     konsole
-    
+    font-awesome
     
